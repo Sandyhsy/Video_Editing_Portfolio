@@ -44,21 +44,17 @@ Video:
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1681733626/video_to_markdown/images/youtube--cydppDzvoMs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/cydppDzvoMs "")
 
 
-### 6. 系必修課：電子商務
-
-    內容：小組自唱及翻拍MV 
-    
-    連結：https://youtu.be/6hy5LJTnbr4
-    影片如下    
+### 6.  Core Course: Electronic Commerce
+Content: Group self-singing and MV remake
+Link: https://youtu.be/6hy5LJTnbr4
+Video:     
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1681732575/video_to_markdown/images/youtube--6hy5LJTnbr4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/6hy5LJTnbr4 "") 
 
 
-### 7. 其他：系所介紹競賽影片
-
-    內容：介紹系所的課程、未來方向及專屬教室 
-    
-    連結：https://youtu.be/_qUoNkYYkoo
-    影片如下    
+### 7. Miscellaneous: Department Introduction Contest Video
+Content: Introduction to the department's courses, future direction, and exclusive classroom
+Link: https://youtu.be/_qUoNkYYkoo
+Video:    
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1681732590/video_to_markdown/images/youtube--_qUoNkYYkoo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/_qUoNkYYkoo "")
 
 
